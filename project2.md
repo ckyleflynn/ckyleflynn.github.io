@@ -6,7 +6,7 @@ JavaScript
 ## Project I
 Cash Register
 ### Description
-An array of objects manipulation with console log testing
+An array of objects manipulation with console log testing. Will return change or Insufficient Funds
 
 ![screenshot](images/cashregisterterminal.jpg )
 
