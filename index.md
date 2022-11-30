@@ -12,9 +12,6 @@
 ### [Stock Market Website](project3)
 
 ---
-### [C++ Code ](project4)
-
----
 ### [Balanced Binary Trees in C++](project5)
 
 ---

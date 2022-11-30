@@ -9,25 +9,25 @@ Coding Quiz
 Quiz topics include JavaScript, CSS, and HTML. Object quizData with questions, answers, correct answers. Totals the correct answers for user
 
 -   **Language(s): JavaScript, CSS, HTML**
--   **Source Code Repository:** [Github Link](https://github.com/ckyleflynndev/JS_CodingQuizApp)
+-   **Source Code Repository:** [Github Link](https://github.com/ckyleflynn/JS_code-project1-/tree/main/QuizApp)
 -   **Codepen:** [Codepen.io](https://codepen.io/Ckflynndev/pen/gOWvdOy?editors=0100)
 
 ## Project II
 Form Validation
 ### Description
-    coming soon
+    A user "create account" that verifies user inputs are correct. Using regular expressions
 
 -   **Language(s):** JavaScript, CSS, HTML
--   **Source Code Repository:** [Github Link](https://github.com/ckyleflynndev/JS_FormValidation)
+-   **Source Code Repository:** [GitHub Link](https://github.com/ckyleflynn/JS_code-project1-/tree/main/FormValidation)
 -   **Codepen:** [Codepen.io](https://codepen.io/Ckflynndev/pen/WNjMgpw)
 
 ## Project III
 New Years Countdown
 ### Description
-    coming soon
+    A countdown timer until 2023. Animated falling snowflakes
 
 -   **Language(s):** JavaScript, CSS, HTML
--   **Source Code Repository:** [Github Link](https://github.com/ckyleflynndev/JS_AnimatedCountdown)
+-   **Source Code Repository:** [Github Link](https://github.com/ckyleflynn/JS_code-project1-/tree/main/Countdown%20Timer%20w%20Animation)
 -   **Codepen:** [Codepen.io](https://codepen.io/Ckflynndev/pen/vYmdzEQ)
 
 
