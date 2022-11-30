@@ -3,12 +3,12 @@
 title: C. Kyle Flynn # your name here
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br /> elements if you don't need line breaks)
-  <br />
+
 
   Bachelor in Computer and Information Science (class of 2020)
-  <br /><br />
+  <br />
   <a href="https://example.com/resume">View My Resume</a>
-  <br /><br />
+  <br />
 
 repository: "https://github.com/ckyleflynn"
 github_username:  ckyleflynn # update with your username
