@@ -16,15 +16,17 @@
 No longer connected to webhost and API expired
 
 ## UI Design
-Video Presentation Available
+
+Video Presentation Available On Request
+
 ![screenshot](images/friendsearch.jpg )
-Fig 1.
+Fig 1. A feature that allows users to search for other users
 
 ![screenshot](images/friendstock.jpg)
-Fig 2.
+Fig 2. A feature that allows users to search for other users friends stocks
 
 ![screenshot](images/stocksearch.jpg)
-Fig 3.
+Fig 3. A feature that allows user to search current stock prices and add stocks to user profile
 
 [Back to Portfolio](./)
 
