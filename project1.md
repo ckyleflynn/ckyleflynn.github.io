@@ -29,6 +29,7 @@ A user "create account" that verifies user inputs are correct. Using regular exp
 
 ![screenshot](images/form1.jpg )
 Fig 3. Unfilled out account
+
 ![screenshot](images/form2.jpg )
 Fig 4. Makes sure passwords match and email is valid
 
