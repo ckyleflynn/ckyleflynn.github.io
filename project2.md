@@ -5,13 +5,14 @@ JavaScript
 
 ## Project I
 Cash Register
-**Source Code Repository:** [Github Link](https://github.com/ckyleflynn/JS_code-project2-/blob/main/CashRegister.js)  
 
 ### Description
-An array of objects manipulation with console log testing. Will return change or Insufficient Funds
+An array of objects that is sent the register amount, total and change or Insufficient Funds
 
 ![screenshot](images/cashregisterterminal.jpg )
-Fig 1. 
+Fig 1. Examples of return calculations
+
+**Source Code Repository:** [Github Link](https://github.com/ckyleflynn/JS_code-project2-/blob/main/CashRegister.js)  
 
 ## Project II
 Caesar Cipher
