@@ -15,7 +15,7 @@ Quiz topics include JavaScript, CSS, and HTML. Object quizData with questions, a
 ## Project II
 Form Validation
 ### Description
-    A user "create account" that verifies user inputs are correct. Using regular expressions
+A user "create account" that verifies user inputs are correct. Using regular expressions
 
 -   **Language(s):** JavaScript, CSS, HTML
 -   **Source Code Repository:** [GitHub Link](https://github.com/ckyleflynn/JS_code-project1-/tree/main/FormValidation)
@@ -24,7 +24,7 @@ Form Validation
 ## Project III
 New Years Countdown
 ### Description
-    A countdown timer until 2023. Animated falling snowflakes
+A countdown timer until 2023. Animated falling snowflakes
 
 -   **Language(s):** JavaScript, CSS, HTML
 -   **Source Code Repository:** [Github Link](https://github.com/ckyleflynn/JS_code-project1-/tree/main/Countdown%20Timer%20w%20Animation)
