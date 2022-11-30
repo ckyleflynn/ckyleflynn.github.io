@@ -13,8 +13,10 @@ Quiz topics include JavaScript, CSS, and HTML. Object quizData with questions, a
 -   **Codepen:** [Codepen.io](https://codepen.io/Ckflynndev/pen/gOWvdOy?editors=0100)
    
 ![screenshot](images/quiz.jpg )
+Fig 1. Multiple Questions in Obj
 
 ![screenshot](images/quiz1.jpg )
+Fig 2. Returns total correct answers
 
 ## Project II
 Form Validation
@@ -26,8 +28,9 @@ A user "create account" that verifies user inputs are correct. Using regular exp
 -   **Codepen:** [Codepen.io](https://codepen.io/Ckflynndev/pen/WNjMgpw)
 
 ![screenshot](images/form1.jpg )
-
+Fig 3. Unfilled out account
 ![screenshot](images/form2.jpg )
+Fig 4. Makes sure passwords match and email is valid
 
 ## Project III
 New Years Countdown
@@ -39,6 +42,7 @@ A countdown timer until 2023. Animated falling snowflakes
 -   **Codepen:** [Codepen.io](https://codepen.io/Ckflynndev/pen/vYmdzEQ)
 
 ![screenshot](images/countdown.jpg )
+Fig 5. Fun falling snow math
 
 
 [Back to Portfolio](./)
