@@ -14,44 +14,53 @@ Fig 1. Examples of return calculations
 
 **Source Code Repository:** [Github Link](https://github.com/ckyleflynn/JS_code-project2-/blob/main/CashRegister.js)  
 
+
 ## Project II
 Caesar Cipher
-**Source Code Repository:** [Github Link](https://github.com/ckyleflynn/JS_code-project2-/blob/main/CeasarCipher.js)  
 
 ### Description
 The Caesar Cipher function with console log testing
 
 ![screenshot](images\CeasarCipher.jpg)
-Fig 2.
+Fig 2. Examples of the letters unscrambled
+
+**Source Code Repository:** [Github Link](https://github.com/ckyleflynn/JS_code-project2-/blob/main/CashRegister.js)  
+
 
 ## Project III
 Palindrome Checker
-**Source Code Repository:** [Github Link](https://github.com/ckyleflynn/JS_code-project2-/blob/main/PalindromeChecker.js)  
 
 ### Description
 Fun JS built-in functions
 
 ![screenshot](images\palindrome.jpg)
-Fig 3.
+Fig 3. Returns a true or false 
+
+**Source Code Repository:** [Github Link](https://github.com/ckyleflynn/JS_code-project2-/blob/main/PalindromeChecker.js)  
+
 
 ## Project IV
 Roman Numeral Converter
-**Source Code Repository:** [Github Link](https://github.com/ckyleflynn/JS_code-project2-/blob/main/RomanNumeralConvert.js)  
 
 ### Description
 For loop containing a while statement
 
 ![screenshot](images\roman.jpg)
-Fig 4.
+Fig 4.Return number inputs
+
+**Source Code Repository:** [Github Link](https://github.com/ckyleflynn/JS_code-project2-/blob/main/RomanNumeralConvert.js)  
+
 
 ## Project V
 Telephone Number Checker
-**Source Code Repository:** [Github Link](https://github.com/ckyleflynn/JS_code-project2-/blob/main/TelephoneNumberChecker.js)  
 
 ### Description
 A function that uses a regular expression to verify correct phone number is inputted
 
 ![screenshot](images\telephone.jpg)
-Fig 5.
+Fig 5. Returns a true or false 
+
+**Source Code Repository:** [Github Link](https://github.com/ckyleflynn/JS_code-project2-/blob/main/TelephoneNumberChecker.js)  
+
 
 [Back to Portfolio](./)
