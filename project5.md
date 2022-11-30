@@ -4,7 +4,7 @@ Balanced Binary Trees
 ===============
 
 -   **Language(s):** C++, makefile, gnuplot
--   **Source Code Repository:**[Github Link](https://github.com/ckyleflynn/BBTreeAnalysis-project5-)	     
+-   **Source Code Repository:** [Github Link](https://github.com/ckyleflynn/BBTreeAnalysis-project5-)	     
 
 # Project description
 
