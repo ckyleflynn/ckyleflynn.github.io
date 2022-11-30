@@ -3,12 +3,9 @@
 title: C. Kyle Flynn # your name here
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br /> elements if you don't need line breaks)
-
-
   Bachelor in Computer and Information Science (class of 2020)
   <br />
   <a href="https://github.com/ckyleflynn/ckyleflynn.github.io/blob/master/pdf/Base%20Resume.pdf">View My Resume</a>
-  <br />
 repository: "https://github.com/ckyleflynn"
 github_username:  ckyleflynn # update with your username
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
