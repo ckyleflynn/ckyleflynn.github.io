@@ -11,7 +11,9 @@ Quiz topics include JavaScript, CSS, and HTML. Object quizData with questions, a
 -   **Language(s): JavaScript, CSS, HTML**
 -   **Source Code Repository:** [Github Link](https://github.com/ckyleflynn/JS_code-project1-/tree/main/QuizApp)
 -   **Codepen:** [Codepen.io](https://codepen.io/Ckflynndev/pen/gOWvdOy?editors=0100)
+   
 ![screenshot](images/quiz.jpg )
+
 ![screenshot](images/quiz1.jpg )
 
 ## Project II
@@ -22,7 +24,9 @@ A user "create account" that verifies user inputs are correct. Using regular exp
 -   **Language(s):** JavaScript, CSS, HTML
 -   **Source Code Repository:** [GitHub Link](https://github.com/ckyleflynn/JS_code-project1-/tree/main/FormValidation)
 -   **Codepen:** [Codepen.io](https://codepen.io/Ckflynndev/pen/WNjMgpw)
+
 ![screenshot](images/form1.jpg )
+
 ![screenshot](images/form2.jpg )
 
 ## Project III
@@ -33,6 +37,7 @@ A countdown timer until 2023. Animated falling snowflakes
 -   **Language(s):** JavaScript, CSS, HTML
 -   **Source Code Repository:** [Github Link](https://github.com/ckyleflynn/JS_code-project1-/tree/main/Countdown%20Timer%20w%20Animation)
 -   **Codepen:** [Codepen.io](https://codepen.io/Ckflynndev/pen/vYmdzEQ)
+
 ![screenshot](images/countdown.jpg )
 
 
